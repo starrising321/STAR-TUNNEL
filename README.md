@@ -1,9 +1,7 @@
-# STAR-TUNNEL By KHALED AGN ( ENGLISH )
+# STAR-TUNNEL By STAR-TUNNEL ( ENGLISH )
 ```
 * STAR-TUNNEL SLOWDNS SCRIPT
 ```
-![logo](https://raw.githubusercontent.com/starrising321/STAR-TUNNEL/main/AGN-DNS.png)
-
 ```
 THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
 
@@ -23,21 +21,17 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
 
 # Installation
 ```
-rm -rf install; apt update; wget https://github.com/starrising321/SlowDNS/raw/main/install; chmod 777 install; ./install --start
+rm -rf install; apt update; wget https://github.com/starrising321/STAR-TUNNEL/raw/main/install; chmod 777 install; ./install --start
 
 ```
 
 
-## :octocat: Translated and Modded by KHALED AGN
+
 <ul>
- <li>TELEGRAM CHANNEL: https://t.me/starrising321</li>
- <li>FACEBOOK: https://www.facebook.com/starrising321.me</li>
- <li>INSTAGRAM: https://www.instagram.com/starrising321</li>
- <li>TWITTER: https://www.instagram.com/khaled_agn</li>
- 
+ <li>TELEGRAM CHANNEL: https://t.me/star_jani</li>
  </ul>
  
 
 ## :octocat: Credits
 
-1. [@LaelsonCG )
+1. [@star_jani )
